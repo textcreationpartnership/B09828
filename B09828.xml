@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The country-mans counsellour, or, Every man made his own lawyer. Plainly shewing the nature, and offices of all courts as Kings bench, common pleas, chancery, exchequer, marshalsey, &amp;c. VVith the just feas for all vvrits &amp; proceedings in each court; allowed and established by act of Parliament.  As also how to sue a man to the out-lawry, or to reverse the same: to pass a fine'er recovery, to sue an attorney or clerk, to get an injunctionin chanciry to stop your advercsaries proceedings at law, to sue in forma pauperis, &amp;c. VVith approved presidents, and easie directions for all persons, how to make according to law, bonds, bills, acquittances, general releases, letters of attorney, bills of sale, vvills, &amp;c.  work most useful to all persons, the like not extant, and now published for a general good.  With allowance / by H. R.</title>
+            <author>H. R.</author>
+         </titleStmt>
+         <extent>Approx. 33KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09828</idno><idno type="EEBO-CITATION">64551632</idno>
+  <idno type="VID">184740</idno>
+  <idno type="EEBO-PROQUEST">2240860646</idno>
+  
+            <idno type="STC">Wing R20A</idno>
+            <idno type="STC">ESTC R225295</idno>
+            <idno type="OCLC">64551632</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09828)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184740)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2871:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The country-mans counsellour, or, Every man made his own lawyer. Plainly shewing the nature, and offices of all courts as Kings bench, common pleas, chancery, exchequer, marshalsey, &amp;c. VVith the just feas for all vvrits &amp; proceedings in each court; allowed and established by act of Parliament.  As also how to sue a man to the out-lawry, or to reverse the same: to pass a fine'er recovery, to sue an attorney or clerk, to get an injunctionin chanciry to stop your advercsaries proceedings at law, to sue in forma pauperis, &amp;c. VVith approved presidents, and easie directions for all persons, how to make according to law, bonds, bills, acquittances, general releases, letters of attorney, bills of sale, vvills, &amp;c.  work most useful to all persons, the like not extant, and now published for a general good.  With allowance / by H. R.</title>
+                  <author>H. R.</author>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Clarke at the Bible and Harp near the hospital gate in West-smith-Field,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Law --  England --  Early works to 1800.</term>
+               <term type="topical_term">Practice of law --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:184740:1"/>
+            <p>THE Country-mans Counsellour, OR, <hi>Every man made his own Lawyer.</hi>
+            </p>
+            <p>Plainly shewing the Nature and Offices of all Courts; as <hi>Kings-bench, Common-pleas, Chancery, Exchequer, Marshalsey, &amp;c.</hi> VVith the just Fees for all VVrits &amp; proceedings in each Court; Allowed and Established by act of Parliament.</p>
+            <p>AS ALSO
+<list>
+                  <item>
+                     <hi>How to sue a Man to the Out-Lawry, or to Reverse the same.</hi>
+                  </item>
+                  <item>
+                     <hi>To pass a Fine or Recovery.</hi>
+                  </item>
+                  <item>
+                     <hi>To sue an Attorney or Clerk.</hi>
+                  </item>
+                  <item>
+                     <hi>To get an Injunction in Chancery to stop your Adver<g ref="char:EOLhyphen"/>saries proceedings at Law.</hi>
+                  </item>
+                  <item>
+                     <hi>To sue in</hi> Forma Pauperis, <hi>&amp;c.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>VVith approved Presidents, and easie Directions for all persons, how to make according to Law, Bonds, Bills, Acquittances, Gene<g ref="char:EOLhyphen"/>ral Releases, Letters of Attorney, Bills of sale, VVills, &amp;c.</p>
+            <p>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> work most useful to all persons, the like Not Extant, and now published for a general good.</p>
+            <p>With Allowance. By <hi>H. R.</hi>
+            </p>
+            <p>Printed for <hi>J. Clarke,</hi> at the Bible and Harp near the Hospital-Gate, in West-smith-field.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:184740:2"/>
+            <pb n="1" facs="tcp:184740:2"/>
+            <head>The Country-Man's Lawyer.</head>
+            <p>YOu must understand there are at <hi>Westmin<g ref="char:EOLhyphen"/>ster</hi> four Courts: the Kings-Bench, and the Common-pleas for Law: the Chance<g ref="char:EOLhyphen"/>ry for equity, and the Exchequer for both: but in cases only wherein the King either really, or upon suggestion is concerned: you may take out Writs from the Common-pleas, or Kings-Bench at any time, but they always both bear date, and are retornable on some days in the Term: but the Chancery is always open, and the Exche<g ref="char:EOLhyphen"/>quer some days before and after the Term.</p>
+            <div type="part">
+               <head>Of the Common-pleas.</head>
+               <p>IN this Court you may sue for debts, accounts, Titles of Land, Trespasses, and almost all other differences that can happen between man and man, wherein there is no criminal matter or breach of the peace.</p>
+               <p>The first process here is call'd an original, upon the making out of which, if the debt or damages therein specified exceed 40 <hi>l.</hi> you must pay down as a fine to the King, from 40 <hi>l.</hi> to a 100 marks, 6 <hi>s</hi> 8 <hi>d</hi> and if a 100 <hi>l.</hi> 10 <hi>s.</hi> and so proportionably.</p>
+               <pb n="2" facs="tcp:184740:3"/>
+               <p>In this Court it is that Men are commonly sued to the Out-Lawry: A remedy intended by the Law, only against such as hid themselves from, or forcibly withstood being taken by ordinary pro<g ref="char:EOLhyphen"/>cess; whereupon after several writts r<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>turned, that they could not be found, and proclamatio made five days by the Sheriff at the County Court, they stand Out-law'd, uncapable to bring any Action, or liable to have their Persons or Estates seized in the nature of Execution, as well on the behalf of the King as the plaintiff: but now some envious peo<g ref="char:EOLhyphen"/>ple make use hereof to vex their neighbours by Out-lawing them for trifles before they hear a word of it; which is a very great abuse.</p>
+               <p>To sue a man to the Out-lawry, requires the space of three terms, but if you begin in the first Week of one term, you may take the advantage of the term before: for dating your Writts, the several process and Fees are as follows.</p>
+               <p>
+                  <table>
+                     <head>
+                        <hi>Michaelmas Term.</hi> 28th. <hi>of K. C.</hi> 2.</head>
+                     <row>
+                        <cell rows="2">
+                           <hi>Doe</hi> against <hi>Roe.</hi>
+                        </cell>
+                        <cell>For the Kings Fine</cell>
+                        <cell>0</cell>
+                        <cell>10</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>For the Original Post diem and Entry</cell>
+                        <cell>0</cell>
+                        <cell>02</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>For the Capias Seal &amp; Post diem</cell>
+                        <cell>0</cell>
+                        <cell>02</cell>
+                        <cell>3</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <head>Hillary following.</head>
+                     <row>
+                        <cell>For the Alias Capias and Post diem</cell>
+                        <cell>0</cell>
+                        <cell>01</cell>
+                        <cell>11</cell>
+                     </row>
+                     <row>
+                        <cell>For Attorneys Fee</cell>
+                        <cell>0</cell>
+                        <cell>03</cell>
+                        <cell>04</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <pb n="3" facs="tcp:184740:3"/>
+                     <head>Easter following.</head>
+                     <row>
+                        <cell>For the pluries Ca<g ref="char:EOLhyphen"/>pias seal &amp; post diem</cell>
+                        <cell>0</cell>
+                        <cell>01</cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>For the VVarrant of Attorney</cell>
+                        <cell>0</cell>
+                        <cell>00</cell>
+                        <cell>04</cell>
+                     </row>
+                     <row>
+                        <cell>For the Exigent &amp; seal</cell>
+                        <cell>0</cell>
+                        <cell>02</cell>
+                        <cell>02</cell>
+                     </row>
+                     <row>
+                        <cell>For retorn thereof</cell>
+                        <cell>0</cell>
+                        <cell>01</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>For the Attorney's Fee</cell>
+                        <cell>0</cell>
+                        <cell>03</cell>
+                        <cell>04</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>In all</cell>
+                        <cell>01</cell>
+                        <cell>08</cell>
+                        <cell>03</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>If you suspect any body is sueing you to the Out-Lawry privately, you may search the Phili<g ref="char:EOLhyphen"/>zers, or Exigenters Office, which will cost but 4 <hi>d.</hi> a Term; and if you find it before the Exigent re<g ref="char:EOLhyphen"/>torned, which is the last VVritt, for about 14 <hi>s.</hi> charge you may get a Supersedeas and in such case the plaintiff looses all his charges, and must accept of Common-Bail; but if you are already actually Out-law'd, you must put in special Bail, and it will cost you neer 40 <hi>s.</hi> to reverse it.</p>
+            </div>
+            <div type="part">
+               <head>Of Fines and Recoveries.</head>
+               <p>In this Court are pass'd all Fines and Recoveries; The use of a Fine is to barr a woman of her title, thirds, or Right of Dower in some Land the Hus<g ref="char:EOLhyphen"/>band is minded to sell, and therefore she is always examined apart by the Judges or Commissioners, to know whether she part with it freely without the compulsion of her Husband: these Fines may be acknowledged either in the Court of Common-pleas
+<pb n="4" facs="tcp:184740:4"/> at <hi>Westminster</hi> in Term time, or before the Lord Chief Justice of that court, out of court, or in the country, by commission to certain gentle<g ref="char:EOLhyphen"/>men for that purpose named; or before the judg<g ref="char:EOLhyphen"/>es at the Assizes; in all which cases the Fees are somewhat variou<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, but the most certain, as fol<g ref="char:EOLhyphen"/>lows.</p>
+               <p>
+                  <table>
+                     <head>The charges of a Fine.</head>
+                     <row>
+                        <cell>For drawing the concord</cell>
+                        <cell>0</cell>
+                        <cell>3</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>My Lords Fee</cell>
+                        <cell>0</cell>
+                        <cell>9</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>Ingrossing the concord</cell>
+                        <cell>0</cell>
+                        <cell>2</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Writt of covenant</cell>
+                        <cell>0</cell>
+                        <cell>3</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Retorn thereof and post Diem</cell>
+                        <cell>0</cell>
+                        <cell>2</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>For the Fine (according to the value of the premises,</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>To the Receiver</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>Entry and Indorsement</cell>
+                        <cell>0</cell>
+                        <cell>2</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Hand</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>Warrant</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>To the Custos Brevium</cell>
+                        <cell>0</cell>
+                        <cell>3</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>Clark of the Kings Silver</cell>
+                        <cell>0</cell>
+                        <cell>1</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>To the Chirographer</cell>
+                        <cell>0</cell>
+                        <cell>6</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>For ingrosing the Fine</cell>
+                        <cell>0</cell>
+                        <cell>3</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>Attorneys fee</cell>
+                        <cell>0</cell>
+                        <cell>6</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>In all (besides the fine to the King]</cell>
+                        <cell>2</cell>
+                        <cell>5</cell>
+                        <cell>2</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Recoveries are frequently added to fines, and their use is to cut off Intails, &amp; bar those in Re<g ref="char:EOLhyphen"/>mainder; &amp; is a security of the highest nature in
+<pb n="5" facs="tcp:184740:4"/> Law; and not to trouble the reader with another tedious Bill, the whole charge of it is betwee<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> five and six pounds in ordinary Cases.</p>
+            </div>
+            <div type="part">
+               <head>Of the Court of Kings-Bench.</head>
+               <p>THe leading Writts here are a bill of <hi>Mid<g ref="char:EOLhyphen"/>dlesex,</hi> if the defendant live in that county; for which you pay 2 <hi>s.</hi> 1 <hi>d.</hi> Or a lattitate, if in any other county of <hi>England;</hi> which costs 4 <hi>s.</hi> 7 <hi>d.</hi> The Warrant from the Sheriff upon these in <hi>Middle<g ref="char:EOLhyphen"/>sex</hi> or <hi>London,</hi> is but 4 <hi>d.</hi> but the Sheriffs in remote counties require more.</p>
+               <p>If you sue a Man here for a certain debt due on bond, or the like, above the value of 10 <hi>l.</hi> you must mark your writt for special bail, that is not on<g ref="char:EOLhyphen"/>ly force him when taken, to give security to the Sheriff to appear, but likewise at the reto<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n of the Writt to give in fresh bail before a Judge, to satisfie what you shall recover of him, and till this be accepted of, the bail to the Sheriff is not discharged; but in matters under 10 <hi>l.</hi> An appear<g ref="char:EOLhyphen"/>ance alone serves turn.</p>
+               <p>If you cannot take the defendant on your Latti<g ref="char:EOLhyphen"/>tate you may renew it; which is call'd an Alias, and costs 2 <hi>s.</hi> 7 <hi>d.</hi> And so a Pluries at the same rate.</p>
+            </div>
+            <div type="part">
+               <head>The high Court of Chancery.</head>
+               <p>THe nature of this court is to moderate the exact rigours of Law, &amp; therefore is called a court of Epuity; as if a man have by negligence or necessity forfeited a bond of 200 <hi>l.</hi> by not pay<g ref="char:EOLhyphen"/>ing
+<pb n="6" facs="tcp:184740:5"/> 100 <hi>l.</hi> on the precise day, according to the con<g ref="char:EOLhyphen"/>dition, or Land Mortgaged, of great value, for not paying some small sum borrowed on it; Here you may enforce such over-reaching Misers to take on<g ref="char:EOLhyphen"/>ly their due debt, interest, and charges, and there<g ref="char:EOLhyphen"/>upon cansel the Bond, or reconvey the Estate Mort<g ref="char:EOLhyphen"/>gaged: and the like in a thousand other cases.</p>
+               <p>The proceedings are here by English bill, where<g ref="char:EOLhyphen"/>in the complainant setteth forth his grievance, mak<g ref="char:EOLhyphen"/>ing use of what suggestions his counsel thinks fit to pump and winnow out the truth from his Adver<g ref="char:EOLhyphen"/>sary; who is bound to answer thereunto strictly in all points upon his Oath, and if he boggle or refuse so to do, must pay costs for insufficient answers.</p>
+               <p>Your first process is a subpaena, which costs 3 <hi>s.</hi> and must be serv'd by delivering it to the Defen<g ref="char:EOLhyphen"/>dant, or leaveing it under seal at his Habitation; of which, Oath (Affidavit they call it) must be made; and then if he do not appear, there goes a Writ to Arrest him, called an attachment, and so if he stand out in contempt, a Writ of Rebellion, and at last a Serjeant at arms; the Defendant must appear by one of the Clerks of the six Clerks office, whose Fee every Term is ten Groats; but if there be twenty Plaintiffs in a Bill, they all pay but one Fee; after the Defendant hath put in his Answer, the Plaintiff replies; and then they examine Wit<g ref="char:EOLhyphen"/>nesses, and so the cause comes to a Hearing,
+<pb n="7" facs="tcp:184740:5"/> and what the Court determines therein, is called, <hi>The Decree.</hi>
+               </p>
+               <p>
+                  <table>
+                     <head>Fees in Chancery.</head>
+                     <row>
+                        <cell>For all copies of Bills, &amp; answers, every sheet conteyning 15 lines.</cell>
+                        <cell>0</cell>
+                        <cell>00</cell>
+                        <cell>9</cell>
+                     </row>
+                     <row>
+                        <cell>For an Attachment</cell>
+                        <cell>0</cell>
+                        <cell>03</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>For breaking it up with the She<g ref="char:EOLhyphen"/>riff, and his VVarrant</cell>
+                        <cell>0</cell>
+                        <cell>02</cell>
+                        <cell>4</cell>
+                     </row>
+                     <row>
+                        <cell>For a Commission of Rebellion</cell>
+                        <cell>0</cell>
+                        <cell>18</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>For swearing every Affidavit</cell>
+                        <cell>0</cell>
+                        <cell>01</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>For drawing up of an Order up<g ref="char:EOLhyphen"/>on a motion to the Register, for the first side</cell>
+                        <cell>0</cell>
+                        <cell>03</cell>
+                        <cell>0</cell>
+                     </row>
+                     <row>
+                        <cell>For every other side</cell>
+                        <cell>0</cell>
+                        <cell>01</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>Entring the same, every side</cell>
+                        <cell>0</cell>
+                        <cell>00</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>For a Decretal Order, the Fees are the same, only for the word De<g ref="char:EOLhyphen"/>cree you pay more</cell>
+                        <cell>0</cell>
+                        <cell>18</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>For fileing every Affidavit or report</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                        <cell>8</cell>
+                     </row>
+                     <row>
+                        <cell>For the solliciters termly fee.</cell>
+                        <cell>0</cell>
+                        <cell>6</cell>
+                        <cell>8</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Suits in Chancery are often brought to stop pro<g ref="char:EOLhyphen"/>ceedings at Law; which is done by a writ called an Injunction, strictly chargeing the Defendant (that is the plaintiff at common Law) not to go on there, but suffer the cause to be decided in this Court; this Injunction is thus obtained: when you have fill'd your Bill, if the Defendant do not ap<g ref="char:EOLhyphen"/>pear
+<pb n="8" facs="tcp:184740:6"/> or answer in due time, (that is within the space of eight days) then the court will of course grant you an Injunction: but if he do answer, your Counsel must move for it from the equity and merits of your cause, or in some cases by of<g ref="char:EOLhyphen"/>fering to lodge the money in dispute in Court till the hearing of the cause? The fees of an Injunction in all are 1 <hi>l.</hi> — 4 <hi>s.</hi> — 6.</p>
+            </div>
+            <div type="part">
+               <head>Of the Court of Exchequer.</head>
+               <p>THe proceedings of this Court are either in the Exchequer chamber, where the pleadings are in english by Bill and Answer, like the Chan<g ref="char:EOLhyphen"/>cery, or in the Office of pleas by declaration, &amp; pleas after the manner of the common Law: Here all persons indebted to the King are upon that account admitted to sue those that owe them money: and therefore Ministers frequently make use of it to recover their Tyths; The first process is a subpaena, which costs 4 <hi>s.</hi> 7 <hi>d.</hi> and in this writt you may put four names, so that when a man has many men that owe him small debts, and is not willing to put himself to the trouble, and them to the charge of an Arrest, 'tis a good way to take out subpaena's out of the Office of pleas, which any friend may serve by leaving Libells or tickets thereof with each defendant, which commonly frights them so that they pay him or give him security, or if they do not, and fail to appear, he has an Attachment, on which they must be arrested by Bayliffs, &amp; pay him his
+<pb n="9" facs="tcp:184740:6"/> charges: a course very mild &amp; fit to be followed, where the defendant is of any honesty or ability.</p>
+            </div>
+            <div type="part">
+               <head>The Marshalses.</head>
+               <p>THis Court has only jurisdiction within 12 miles from <hi>VVhite-hall,</hi> (but not in the liberties of <hi>London</hi>) and was originally intended only where one of the parties was of the Kings houshold: but now people of all qualities make use of it; for a writ here you pay 2 <hi>s.</hi> &amp; by custome give a shilling when you deliver it to the officer, which may be renewed or continued from one court day to another (that is every friday) for 4 <hi>d.</hi> a time: they hold people to special Bail in all cases, and a Cause generally comes to a Tryal in three weeks or a month: the Attorneys fee is but 2 <hi>s.</hi> 6 <hi>d.</hi> a Councellors 5 <hi>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> and the charges of the plantiff to bring a cause to tryal about 50 <hi>s.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>How to sue Attorneys, &amp;c.</head>
+               <p>MAny people complain foolishly of the diffi<g ref="char:EOLhyphen"/>cultie of sueing Attorneys, and the like of<g ref="char:EOLhyphen"/>ficers of courts, for indeed they are more easily prosecuted then others, for you are not put to the trouble of arresting them, but only to file a Bill or Declaration in the Court they belong to: if they be of the Common pleas in the Pro<g ref="char:EOLhyphen"/>honoraries Office they are entred in: if of the Chancery, in the pettibag Office, and if they do not plead to it in due time, they are fore-judged the Court, that is, seque<g ref="char:EOLhyphen"/>stred from Practice, and denyed their pri<g ref="char:EOLhyphen"/>viledge,
+<pb n="10" facs="tcp:184740:7"/> so that then you may arrest them; but if they plead, the proceedings are the same, and you have as fair play at them as at any other persons.</p>
+            </div>
+            <div type="part">
+               <head>How to obtain Admission in <hi>Forma Pauperis.</hi>
+               </head>
+               <p>A Person that has just right, but not an able purse, must in this case get a petition drawn to the Judge of that Court where he intends to begin, set<g ref="char:EOLhyphen"/>ting forth the justice of his cause, and his indigency, and praying that he may be admitted, and such an one for his Attorney, or Clerk in Chancery, under which must be an Affidavit that the petitioner is not worth five pounds besides the matter in que<g ref="char:EOLhyphen"/>stion.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Choice and approved Presidents.</hi> The True forme of a Bond.</head>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="bond">
+                           <p>
+                              <hi>NOverint universi per presentes me</hi> (or if two or more be bound, <hi>Nos</hi>) Henricum Bostocke <hi>de Tingery in Comitatu</hi> Bedford, <hi>Yeoman, Teneri &amp; firmiter obligari</hi> VVillielmo VVest <hi>de</hi> Tuddington, <hi>in Comitatu praedicto Generoso: In Viginti Libris bonae &amp; legalis monetae Angliae, solvend. eidem</hi> VVil. VVest, <hi>aut suo certo Attornato, Executoribus, Admi<g ref="char:EOLhyphen"/>nistratoribus, vel Assignatis suis: Ad quam quidem
+<pb n="11" facs="tcp:184740:7"/> solutionem bene &amp; fideliter faciendum obligo me</hi> (or if two or more, <hi>Nos &amp; utrumque,</hi> or, <hi>quemlibet nostrum) Haeredes Executores &amp; Administratores meos</hi> (or if two or more <hi>Nostros, &amp; utriusque,</hi> or, <hi>cujuslibet nostrum perse pro tote &amp; in solido) firmiter per presentes, sig<gap reason="illegible" resp="#murp" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>llo meo</hi> (or if more, <hi>Nostris) sigillat. Dat. Quarto die Aprilis Anno Regni Do<g ref="char:EOLhyphen"/>mini nostri</hi> Caroli <hi>secundi, Dei Gratia nunc Regis Angliae,</hi> &amp;c. <hi>Vicesimo Non<gap reason="illegible" resp="#murp" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap> Anno{que} Dom.</hi> 1677.</p>
+                           <p>The condition of this Obligation is such, that if the above bound <hi>Henry Bostocke,</hi> his (or if more than one bound, their) Heirs, Executors, or Admi<g ref="char:EOLhyphen"/>nistrators, (if more, add, or any of them) do and shall well and truly pay, or cause to be paid unto the above-named <hi>William West,</hi> or to his certain Attorney, Executors, Administrators or Assigns, the full &amp; just sum of ten pounds of lawful money of <hi>England,</hi> on, or before the four and twentieth day of <hi>June,</hi> next ensuing the day of the Date a<g ref="char:EOLhyphen"/>bove written, without fraud or further delay, then this present Obligation to be void, and of none effect, or else to stand and be in full force and vertue.</p>
+                           <closer>
+                              <dateline>
+                                 <hi>Sealed and Delivered in the presence of</hi>
+                                 <gap reason="blank" extent="1 word">
+                                    <desc> _____ </desc>
+                                 </gap>
+                              </dateline>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>Note that some use to name a certain place of payment, as <hi>at the said dwelling House of the said</hi> William VVest, <hi>scituate in</hi> Tuddington <hi>above men<g ref="char:EOLhyphen"/>tioned;</hi> but that is for the advantage of the bor<g ref="char:EOLhyphen"/>rower,
+<pb n="12" facs="tcp:184740:8"/> not the lender, for otherwise he is bound at time of payment to find out his creditor where ever he be, and tender the money to him, or he forfeits his bond.</p>
+               <p>Note also, that if interest be agreed to be paid, you must compute what it comes to, and add it to the sum payable, for otherwise the Law will al<g ref="char:EOLhyphen"/>low it only from the time the money becomes due.</p>
+               <p>If the money be to be paid at several days, then when you come to mention the sum in th<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> condition, say thus; the full and just summ of ten pounds in manner and form following, that is to say, five pounds, part thereof on such a day, &amp; five pounds residue thereof on such a day; or if by weekly or monthly payments, then, twenty shil<g ref="char:EOLhyphen"/>lings, part thereof on munday such a day; twen<g ref="char:EOLunhyphen"/>ty shillings more thereof on munday such a day and so twenty shillings on every munday, (or eve<g ref="char:EOLunhyphen"/>ry first day of the month, if by the month) till th<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> said summ of ten pounds shall be paid, in full pay<g ref="char:EOLhyphen"/>ment and satisfaction of the said summ of ten pounds. And then at last instead of, <hi>or else to stan<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> and be, &amp;c.</hi> say: But if default shall happen to b<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> made in any, or either of the said payments, then this present obligation to stand or be in full for o<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and vertue. For otherwise your Bond cannot b<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> sued till after all the money is become due.</p>
+               <p>But because many through ignorance in Latin know not exactly how to write a Bond,
+<pb n="13" facs="tcp:184740:8"/> will here shew them the form of a penal Bill, which is as good and sure to all intents and pur<g ref="char:EOLhyphen"/>poses.</p>
+            </div>
+            <div type="part">
+               <head>A Bill Obligatory with a Penalty.</head>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="bill">
+                           <p>KNow all Men by these presents, that I <hi>T. B.</hi> of <hi>C.</hi> in the County of <hi>D.</hi> Gent. do owe and am justly indebted unto <hi>E. F.</hi> of <hi>G.</hi> in the County of <hi>H.</hi> Yeoman; the full summ of ten pounds of lawful money of <hi>England;</hi> to be paid unto the said <hi>E. F.</hi> or to his certain Attorney, Executors, Administrators, or Assigns, on or before the 29th. day of <hi>September</hi> next ensuing the date hereof; to which payment well and truely to be made and done, <hi>I</hi> bind my self, my Heirs, Executors, and Administrators, in the full summ of twenty pounds of like lawful money of <hi>England</hi> firmly by these presents, seal<g ref="char:EOLhyphen"/>ed with my seal. Dated the 3d. day of <hi>April</hi> in the 29th. Year of the Raign of our Soveraign Lord King <hi>CHARLES</hi> the Second, <hi>Annoq. Dom.</hi> 1677.</p>
+                           <closer>
+                              <dateline>
+                                 <hi>Sealed and delivered in the presence of</hi>
+                                 <gap reason="blank" extent="1 word">
+                                    <desc> _____ </desc>
+                                 </gap>
+                              </dateline>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <pb n="14" facs="tcp:184740:9"/>
+               <p>But note, you be sure to have the parties seal as well as hand to all such Bills, for otherwise 'tis no specialty, and if you do not sue for it within six years (not seven, for that's a Vulgar error) he may plead the statute of Limitation to you; for no man is bound to pay book-Debts, Notes of his hand onely, or the like, after that time.</p>
+            </div>
+            <div type="part">
+               <head>A General Release.</head>
+               <p>KNow all men by these presents, that I <hi>T. W.</hi> of <hi>C.</hi> in the County of <hi>E.</hi> Gent. Have remi<g ref="char:EOLhyphen"/>sed, released, and quite claimed, and by these pre<g ref="char:EOLhyphen"/>sents do Remise, Release, and for ever quite claim unto <hi>R. C.</hi> of <hi>D.</hi> in the same County, Yeoman, his Heirs, Executors, and Administrators: all and all manner of Actions, Suits, cause and causes of A<g ref="char:EOLhyphen"/>ctions and Suits, Bonds, Bills, and all other wri<g ref="char:EOLhyphen"/>tings and Accounts, Debts, Dues, and Reckonings, summ and summs of Money, Controversies, Judge<g ref="char:EOLhyphen"/>ments, Executions, Statutes Merchant, and of the Staple, Out-lawries, and all other Claims and De<g ref="char:EOLhyphen"/>mands whatsoever: which I the said <hi>T. W.</hi> ever had, now have, or which I, my Heirs, Executors, Administrators, or Assigns, at any time hereafter may, might, or could have, to, with, or against the said <hi>R. C.</hi> his Heirs, Executors, or Administrators, for, or by reason of any Matter, cause, or thing:
+<pb n="15" facs="tcp:184740:9"/> from the beginning of the world, until the day of the Date Hereof: In witness whereof, I the said T. W. have hereunto set my Hand and Seal, this tenth day of <hi>Feb.</hi> in the 29 Year of the Reign of our Soveraign Lord King <hi>Charles</hi> the Second, &amp;c. <hi>Annoq. Dom.</hi> 1677.</p>
+            </div>
+            <div type="part">
+               <head>A Receipt for Rent.</head>
+               <p>Received this 30th. day of <hi>March,</hi> 1677. Of <hi>John Paywel,</hi> the sum of five pounds in full, for one quarters Rent for the Tenement and Farm which he holdeth of me, due at <hi>Lady-day</hi> last. 5 l. 00 s. 00 d.</p>
+               <closer>I say Received by me, <signed>Tho. Truelove.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>The form of a Bond of Arbitration.</head>
+               <head>The Obligation is like all others, the Con<g ref="char:EOLhyphen"/>dition as follows.</head>
+               <p>THe Condition of this Obligation is such that if the above bound <hi>Bridget Horner,</hi> her Heirs, Executors, and Administrators, do, and shall, from time to time, and at all times hereaf<g ref="char:EOLhyphen"/>ter for her and their parts, well and truly stand to bide, obey, observe, perform, fulfill, and keep
+<pb n="16" facs="tcp:184740:10"/> all and every the Award, Arbitrament, order, rule, judgement, and final determination of Iohn Bo<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d of Peterfield in the County of Southamp<g ref="char:EOLhyphen"/>ton, Gent. &amp; Richard Taylor of London, Gent. Ar<g ref="char:EOLhyphen"/>bitrators indifferently named, elected, and cho<g ref="char:EOLhyphen"/>sen, as well on the part and behalf of the said <hi>B. H.</hi> as on the part and behalf of the above-named <hi>Thomas Dipnal;</hi> to arbitrate, award, order, rule, judge of, and finally to determine of, for, upon, and concerning all and all manner of Real and Personal Actions, and Suits, Cause and causes of such actions and suits, bonds, bills, reckon<g ref="char:EOLhyphen"/>ings, and accompts; debts, dues, trespasses; con<g ref="char:EOLhyphen"/>troversies, judg<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ments, executions, and all other claims and demands w<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atsoever; had, made, mo<g ref="char:EOLhyphen"/>ved, stirred up, or in any wise depending between the said parties, for, or by reason of any matter, cause, or thing wha soever, from the beginning of the world until the day of the date above writ<g ref="char:EOLhyphen"/>ten; so as the said Awa<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d and determination of the said Arbitrators, in, of, and upon the premi<g ref="char:EOLhyphen"/>ses be made and ready to be given up in writing under their hands and seals, to the said parties or either of them demanding the same, on, or be<g ref="char:EOLhyphen"/>fore the second day of <hi>June</hi> next ensuing the date above written; Then this present obligation to be void and of no effect or else to stand, remain, and be in full force and vertue: Sealed, &amp;c.</p>
+            </div>
+            <div type="part">
+               <pb n="17" facs="tcp:184740:10"/>
+               <head>The form of an Indenture of an Apprentice.</head>
+               <p>This Indenture witnesseth, That <hi>Henry Napp,</hi> Son of <hi>Joseph Napp,</hi> late of <hi>Guilford</hi> in the County of <hi>Surry</hi> Clothier, hath put himself and by these presents doth voluntarily put himself Ap<g ref="char:EOLhyphen"/>prentice to <hi>William Prigg</hi> of <hi>Kingston</hi> upon <hi>Thames</hi> in the County aforesaid Butch<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r; to learn his Art, after the manner of an Apprentice to serve him <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rom the day of the date hereof, for, and during the Term of seven years thence next fol<g ref="char:EOLhyphen"/>lowing: During all which Term the said Appren<g ref="char:EOLhyphen"/>tice his said Master faithfully shall serve, his sec<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ets <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eep his lawfu<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> commandments every where obey. He shall do no dammage to his said master, nor see to be done of others, without let<g ref="char:EOLhyphen"/>ting or giving notice thereof to his said master: he shall not waste his said masters goods nor lend them unlawfully to any: he shall not commit for<g ref="char:EOLhyphen"/>nication, nor contract matrimony within the said Term: At Cards, Dice, or any unlawful Game he shall not play, whereby his master may have damage, with his own goods or others: He shall not absent himself day nor night from his masters service without his leave; nor haunt Ale-houses, Taverns, or Play-houses; but in all things behave himself as a faithful Apprentice ought to do, du<g ref="char:EOLhyphen"/>ring all the said Term. And the said master shall
+<pb n="18" facs="tcp:184740:11"/> use the utmost of his endeavour, to teach, or cause to be taught or instructed his said Apprentice in the Trade or mystery that he now followeth: and to find and provide for him sufficient meat, drink, apparel, lodging, and washing befitting an Ap<g ref="char:EOLhyphen"/>prentice during all the said Term. And for the true performance of all and every the said Cove<g ref="char:EOLhyphen"/>nants and Agreements, either of the said parties bind themselves unto the other by these presents. In witness whereof, they have interchangeably set their hands this 10th. day of <hi>April,</hi> &amp;c.</p>
+            </div>
+            <div type="part">
+               <head>A Bill of Sale for any Goods.</head>
+               <p>KNow all men by these presents, that I <hi>T. Downes</hi> of &amp;c. for, and in consideration of the sum of &amp;c. to me in hand paid by W. <hi>Harris</hi> of &amp;c. at and before the sealing hereof, have bar<g ref="char:EOLhyphen"/>gained and sold, and by these presents do bargain and fell fully, clearly, and absolutely unto the said VV. <hi>H.</hi> in plain and open market, the Goods and Chattels following, viz. One Feather-bed, Two Dozen of Turkey-work-Chairs, &amp;c. (As the case is) to have and to hold the same Feather-bed, &amp;c. to the said W. H. his Executors, and Assign<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; to
+<pb n="19" facs="tcp:184740:11"/> his and their own proper use, and uses, for ever: And <hi>I</hi> the said <hi>T. D.</hi> my Executors, and Admini<g ref="char:EOLhyphen"/>strators, and every of us, the said Feather-bed, &amp;c. unto the said VV. <hi>H.</hi> his Executors, and Ad<g ref="char:EOLhyphen"/>ministrators, against <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll people shall a<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d will for ever acquit and defend by these presents, <hi>Provided always;</hi> That I the said <hi>T. D.</hi> my Executors or Administrators, or any of us, do well and truly pay unto the said <hi>VV. H.</hi> his Executors, or Admi<g ref="char:EOLhyphen"/>nistrators, the fall summ of 8 <hi>l.</hi> on the 24th. of <hi>June</hi> next ensuing the date hereof, without fraud or covin: then this present Bill of Sale, and the bar<g ref="char:EOLhyphen"/>gain and Sale of the said Feather-bed, &amp;c. shall be utterly void and of none effect: or else to stand and be in full force and vertue.</p>
+               <closer>
+                  <dateline>
+                     <hi>Sealed and delivered, together with the said goods above mentioned, in the presence of</hi>
+                     <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="20" facs="tcp:184740:12"/>
+               <head>The form of a Letter of Attorney.</head>
+               <p>KNow all men by these presents, That I <hi>Sa<g ref="char:EOLhyphen"/>muel Knight</hi> of &amp;c. Marriner, have named and constituted, and by these presents do name, ordain, appoint, and make my trusty Friend <hi>John Soker</hi> of <hi>London,</hi> Merchant, my true and lawful Attorney, for me, and in my name, and to my use (Or if so intended—But to his own proper use, without rendring any account) to demand, sue for, recover, and receive of <hi>Richard Johnson</hi> of Shrewsbury, the summ of twenty pounds justly to me due and owing by and from the said <hi>Richard Johnson:</hi> Giving, and hereby granting unto my said Attorney, my full power and authority, to use and execute all such acts, things, and devises in the Law, as shall be necessary for Recovery of the said debt: and Acquittances or other dischar<g ref="char:EOLhyphen"/>ges in my name to make and give, and generally to do and execute in the premises, as fully as I my <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elf might or could do, being personally present: <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atifying confirming and allowing, all and what<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oever my said Attorney shall lawfully do or <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>au<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e to be done therein by these presents. In wit<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ess whereof I hereunto set my hand and seal this <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th. day, &amp;c.</p>
+            </div>
+            <div type="part">
+               <pb n="21" facs="tcp:184740:12"/>
+               <head>The form of a <hi>Will.</hi>
+               </head>
+               <p>
+                  <hi>IN the Name of God:</hi> Amen. I <hi>Simon Sud<g ref="char:EOLhyphen"/>bery</hi> of &amp;c. Being sick of body, but in sound and disposing memory, praise be given to God for the same; do make this my Last Will and Testament in manner and form following: that is to say: first and principally I resign my Soul into the merci<g ref="char:EOLhyphen"/>ful hands of Almighty God my Creator, assured<g ref="char:EOLhyphen"/>ly hoping through the merits of my blessed Sa<g ref="char:EOLhyphen"/>viour, to obtain Remission of all my sins: and my Body I commit to the earth whence it was taken, to be decently buried by the discretion of my Executrix herein after named: and as for the worldly goods and estate the Lord hath lent me, I dispose thereof as follows. <hi>Imprimis,</hi> I give and bequeath to my daughter <hi>Mary Sudbery,</hi> all those my Lands and Tenements at <hi>Bocking:</hi> To have and to hold to her and her heirs for ever. <hi>Item,</hi> I give and bequeath to my Couzin <hi>N.<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> the Summ of Fifty pounds, to be paid within six months afte<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> my decease: (And so name your several Legacies, and then conclude thus:) and all the rest and residue of my Estate, Goods, and Chattels, not herein before bequeathed, af<g ref="char:EOLhyphen"/>ter my Debts and Funeral Expences discharged
+<pb n="22" facs="tcp:184740:13"/> I do give and bequeath unto my dear and loving Wife <hi>Dorothy Sudbery,</hi> whom I do make sole Ex<g ref="char:EOLhyphen"/>ecutrix of this my last VVill and Testament: Re<g ref="char:EOLhyphen"/>voking all other VVills by me heretofore made. In witness whereof I have hereunto set my Hand and Seal, this 26th. day of &amp;c.</p>
+               <closer>
+                  <dateline>
+                     <hi>Signed, sealed, and Published, in the presence of</hi>
+                     <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap>
+                  </dateline>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
